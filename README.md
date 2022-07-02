@@ -1,5 +1,5 @@
 # Home-Surveillance-System-using-Computer-Vision
-I have created a face recognizer using convolutional neural networks to recognize the authorized person faces. I have trained the model on 50 different images of 2 persons using google colab. The accuracy is more than 85%
+I have created a face recognizer using convolutional neural networks to recognize the authorized person's faces. I have trained the model on 50 different images of 2 persons using google colab. The accuracy is more than 85%
 
 The CNN model architecture is as follows:
 
